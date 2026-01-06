@@ -1,5 +1,7 @@
 # priyanshu-demo
 this is my first Git Repository.
 <br>
-Author - Priyanshu
+Author - Priyanshu kumar
+
+
 
